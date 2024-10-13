@@ -2,7 +2,7 @@
 # FixFaultyLineBreaksPreservingSentenceBreaks Macro
 
 ## Overview
-This VBA macro cleans up faulty line breaks in specified columns of your Excel worksheet. It preserves correct line breaks between sentences, logs all changes in a ChangeLog table, and provides processing statistics in a Statistics table.
+This VBA macro cleans up faulty line breaks in specified columns of your Excel worksheet, which often happens because of automated manipulation of data or insertion from other types of files. It preserves correct line breaks between sentences, logs all changes in a ChangeLog table, and provides processing statistics in a Statistics table.
 
 ## Setup Instructions
 
