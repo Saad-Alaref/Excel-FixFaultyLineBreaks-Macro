@@ -67,4 +67,4 @@ Save your workbook as a macro-enabled file (`.xlsm`) to retain the macro.
 - **Customization:** To process additional columns or add more metrics, modify the `targetColumns` array and the metrics array in the VBA code accordingly.
 
 ## Support
-For any issues or questions regarding this macro, please refer to VBA resources or contact the macro developer.
+For any issues or questions regarding this macro, please refer to VBA resources or contact me directly.
